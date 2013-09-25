@@ -1,0 +1,6 @@
+export URBIT_HOME=/urbit/urb
+/urbit/bin/vere -c mypier
+while :
+do
+	sleep 1
+done
